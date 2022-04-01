@@ -9,7 +9,6 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
 </head>
-
 <body>
     <div class="wrapper">
         <selection class="users">
@@ -28,8 +27,83 @@
                 <input type="text" placeholder="Enter name to search...">
                 <button><i class="fas fa-search"></i></button>
             </div>
+            <div class="users-list">
+                <a href="#">
+                    <div class="content">
+                        <img src="my.jpeg" alt="">
+                        <div class="details">
+                            <span>Coding Vishal</span>
+                            <p>This is Text Massege</p>
+                        </div>
+                    </div>
+                    <div class="status-dot">
+                        <i class="fas fa-circle"></i>
+                    </div>
+                </a>
+                <a href="#">
+                    <div class="content">
+                        <img src="my.jpeg" alt="">
+                        <div class="details">
+                            <span>Coding Vishal</span>
+                            <p>This is Text Massege</p>
+                        </div>
+                    </div>
+                    <div class="status-dot">
+                        <i class="fas fa-circle"></i>
+                    </div>
+                </a>
+                <a href="#">
+                    <div class="content">
+                        <img src="my.jpeg" alt="">
+                        <div class="details">
+                            <span>Coding Vishal</span>
+                            <p>This is Text Massege</p>
+                        </div>
+                    </div>
+                    <div class="status-dot">
+                        <i class="fas fa-circle"></i>
+                    </div>
+                </a>
+                <a href="#">
+                    <div class="content">
+                        <img src="my.jpeg" alt="">
+                        <div class="details">
+                            <span>Coding Vishal</span>
+                            <p>This is Text Massege</p>
+                        </div>
+                    </div>
+                    <div class="status-dot">
+                        <i class="fas fa-circle"></i>
+                    </div>
+                </a>
+                <a href="#">
+                    <div class="content">
+                        <img src="my.jpeg" alt="">
+                        <div class="details">
+                            <span>Coding Vishal</span>
+                            <p>This is Text Massege</p>
+                        </div>
+                    </div>
+                    <div class="status-dot">
+                        <i class="fas fa-circle"></i>
+                    </div>
+                </a>
+                <a href="#">
+                    <div class="content">
+                        <img src="my.jpeg" alt="">
+                        <div class="details">
+                            <span>Coding Vishal</span>
+                            <p>This is Text Massege</p>
+                        </div>
+                    </div>
+                    <div class="status-dot">
+                        <i class="fas fa-circle"></i>
+                    </div>
+                </a>
+
+                
+            </div>
         </selection>
     </div>
 </body>
-
 </html>
