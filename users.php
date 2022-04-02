@@ -23,7 +23,7 @@
                 <a href="#" class="logout">Logout</a>
             </header>
             <div class="search">
-                <span class="text">Select an user to strat chat</span>
+                <span class="text">Select an user to start chat</span>
                 <input type="text" placeholder="Enter name to search...">
                 <button><i class="fas fa-search"></i></button>
             </div>
@@ -100,10 +100,10 @@
                         <i class="fas fa-circle"></i>
                     </div>
                 </a>
-
                 
             </div>
         </selection>
     </div>
+    <script src="javascript/users.js"></script>
 </body>
 </html>

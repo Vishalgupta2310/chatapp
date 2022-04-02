@@ -17,12 +17,12 @@
             <form action="#">
                 <div class="error-txt">This is An error Line!</div>
                 <div class="field input">
-                    <label>E-mail Address</label>
+                    <label>Email Address</label>
                     <input type="text" placeholder="Enter your email">
                 </div>
                 <div class="field input">
                     <label>Password</label>
-                    <input type="text" placeholder="Enter your password">
+                    <input type="password" placeholder="Enter your password">
                     <i class="fas fa-eye"></i>
                 </div>
                 <div class="field button">
@@ -32,6 +32,9 @@
             <div class="link">Not yet Signed up? <a href="#">Signup now</a></div>
         </selection>
     </div>
+    <script src="javascript/pass-show-hide.js">
+
+    </script>
 </body>
 
 </html>
